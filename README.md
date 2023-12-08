@@ -10,11 +10,6 @@
 - ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
 - 💬 Be free to ask me about anything [here](https://github.com/isMrFan/isMrFan/issues).
 
-
-<a href="https://github.com/isMrFan">
- <img alt="Shows isMrFan's GitHub Stats." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=isMrFan&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
-</a>
-
 ### 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -29,3 +24,15 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+<a href="https://github.com/isMrFan">
+ <img alt="Shows isMrFan's GitHub Stats." width="500px" src="https://github-stats.liuli.lol/api?username=isMrFan&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
+</a>
+
+<a href="https://github.com/isMrFan">
+ <img alt="Shows isMrFan's GitHub Stats." width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=isMrFan&theme=darcula&hide_border=false">
+</a>
+
+<a href="https://github.com/isMrFan">
+ <img alt="Shows isMrFan's GitHub Stats." width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isMrFan&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</a>
