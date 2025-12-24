@@ -1,16 +1,114 @@
-### Hi there, I'm [isMrFan](https://dk-plus.com)（isMrFan）. 👋
+## 欢迎来到我的主页 👏
+
+全栈偏前端，专注平台工程 / DevEx / AI 工程化落地（把 AI 变成可调用的工具与工作流）。
+
+[个人主页](https://dk-plus.com) · [GitHub](https://github.com/isMrFan) · [开源项目：dk-plus-ui](https://github.com/isMrFan/dk-plus-ui) · [交流与提问](https://github.com/isMrFan/isMrFan/issues)
+
+<details open>
+	<summary><b>特别鸣谢 🎉（点击展开）</b></summary>
+
+感谢自 2016 年以来与我一起努力的小伙伴（排名不分先后；为保护隐私，部分人员任职公司不予展示）：
+
+- [天下秀数字科技集团] 资深架构师：[雨轩](https://github.com/bugfix2020)
+- 中级前端开发工程师：[英杰](https://github.com/WangYingJay)
+
+</details>
+
+---
+
+## 技能标签 📖
+
+### 前端（Web）
+
+- **语言与规范**：TypeScript（强类型/可维护性导向）
+- **框架**：React 18 · Vue 2 · Vue 3
+- **路由/状态/UI（实践栈）**：react-router-dom · Vue Router · recoil · Pinia · pro-components · Element Plus
+- **开发环境/AI 工具化**：VS Code · Cursor · Antigravity · GitHub Copilot · Tool Calling · MCP（把 AI 变成可调用的工具）· Agent 工作流
+- **样式**：SCSS
+
+### 跨端/移动端
+
+- **uni-app 生态**：uni-app · uni-ui（小程序/H5/App 多端）
+- **Flutter 生态**：Flutter · Dart（Packages/Plugins）
+
+### 工程化（DevEx）
+
+- **构建与工具链**：Vite · Webpack · Turbopack · CRA（自定义模板/工程化落地）
+- **构建优化（Webpack/Babel）**：构建配置治理、性能优化、按需拆包/缓存策略（含自定义 Loader/插件能力）
+- **Monorepo 工程体系**：Workspace 依赖治理（分包边界/版本策略）· 任务编排（build/lint/test）· 增量构建与缓存 · 变更影响分析与发布链路
+- **脚手架与自动化**：项目初始化模板、约定式目录与配置、环境切换（dev/staging/prod）、可复用的工程基座
+- **规范与质量**：ESLint · Prettier · Husky · Commitlint（统一编码风格/提交规范/CI 校验）
+- **发布与协作**：ChangeLog 自动生成、发布流程标准化、Code Review 与跨团队协作机制
+
+### 后端与存储
+
+- **后端**：Node.js · Python
+- **数据存储**：MySQL · Redis
+
+### AI 工程（LLM 应用）
+
+- **工作流：LangGraph（Streaming：values/updates；resume/join）**  
+	LangGraph 是一套用于构建和编排大语言模型（LLM）工作流的框架。它支持将 LLM 推理过程拆解为多个节点（如检索、生成、过滤等），并通过流式（Streaming）方式实时反馈每个节点的状态和输出（values/updates），支持任务中断后的恢复（resume/join）。适合实现复杂的多步对话、RAG 检索增强、Agent 工具链等场景，让 AI 推理过程可观测、可追踪、可调试。
+- **工具化/Agent：MCP Server（把工程能力封装为 Tools）**  
+	MCP（Model Context Protocol）Server 是一种“AI 工程工具化”方案。它把查依赖、分析变更、生成修复建议等工程能力封装成标准化的 Tool，供 LLM/Agent 直接调用，实现“AI 能自动执行工程任务”。这样，AI 不只是“聊天”，还能自动读代码、改配置、生成 PR、做回归验证等，极大提升工程自动化和智能化水平。
+
+### 调试/抓包
+
+Charles · cURL
+
+---
+
+## 个人简介 🏠
+
+全栈偏前端。
+
+重度 TypeScript 使用者、严重的代码洁癖、强类型语言坚定的拥护者。
+
+我擅长把复杂交互与长链路问题（请求、上传、AI 工作流、编辑器、权限）抽象为可复用的基础设施，并把它做成 **可治理、可观测、可演进** 的系统。
+
+---
+
+## 工程化与实践摘要（Highlights）
+
+- 承担团队技术选型与工程体系落地：推崇敏捷开发与前端标准化，在多个团队推动统一规范（ESLint / Commitlint 等）
+- Vue / React 双栈：理解 Vue（Vdom/模板编译）与 React 工程实践；擅长 Webpack 构建链路配置与优化（含自定义 Loader）
+- 深入理解 JavaScript：关注 V8 GC、运行时机制与浏览器底层原理，结合实践做性能定位与优化
+- 有大型 C 端、B 端与 ERP 平台经验：跨团队协作强，对大规模业务的性能与前端安全有落地与思考
+- AI/ML 自驱学习：可使用 Python + TensorFlow 做实际问题建模与调参（强调“能用起来”而非只停留在概念）
+- Node.js 工程实践：为前端提供配置/编排类接口，支撑工程化与平台能力
+- 开源与传播：维护个人开源组件库 https://dk-plus.com/ ，持续通过博客/公众号输出技术内容（公众号：MsDkPlus）
+- 跨端生态参与：参与 uView 3.0 相关开源贡献（兼容 Vue 3 / TypeScript / uni-app X）
+
+---
 
 
-- 🧑 I'm a developer, core team member of [dk-plus](https://github.com/isMrFan/dk-plus-ui).
+---
 
-- 👨‍💻 I like open source and all interesting things and want to try to do it.
+## 开发项目 💻
 
-- 🌱 I’m Constantly learning
-- 🤔 I want to become an exceptionally skilled software developer.
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
-- 💬 Be free to ask me about anything [here](https://github.com/isMrFan/isMrFan/issues).
+- [dk-plus-ui](https://github.com/isMrFan/dk-plus-ui)：适用于 Vue 3 的开源组件库
 
-### 🛠 Tech Stack
+- VS Code 扩展：[DKPlusHumanClarification-source](https://github.com/isMrFan/DKPlusHumanClarification-source) —— 支持人机澄清/AI 辅助的 VS Code 插件，提升开发与沟通效率
+- Vue 2/3 全自动化 CLI（仅部门内部使用，未发布 npm）
+
+---
+
+## 过往经历 🔰
+
+- 项目从 0 到 1 的推动与开发
+- 负责 Code Review
+- 制定并执行完整的 DevOps 流程、Angular Commit 规范、ChangeLog 自动生成、上线自动邮件抄送、线上异常信息报警
+- 需求规划与团队开发排期
+
+---
+
+## 联系方式 📬
+
+- Email：dk-plus-ui@foxmail.com
+
+---
+
+## Tech Stack（Badges）
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
